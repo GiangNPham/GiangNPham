@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science student at UT Dallas.<br>I'm learning to be a full-stack developer.
+SWE Intern @ Meta | CS @ UT Dallas
 
 
 ## 🌐 Socials:
