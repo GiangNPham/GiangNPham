@@ -1,5 +1,5 @@
 # 💫 About Me:
-SWE Intern @ Meta | CS @ UT Dallas
+ex-SWE Intern @ Meta | CS @ UT Dallas
 
 
 ## 🌐 Socials:
